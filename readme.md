@@ -23,7 +23,7 @@
 
 ---
 
-<strong>DiCache is a training-free, plug-and-play adaptive caching strategy for accelerating diffusion models at runtime.</strong>
+<strong>DiCache is a training-free adaptive caching strategy for accelerating diffusion models at runtime.</strong>
 
 <details><summary>📖 Click for the full abstract of DiCache</summary>
 
@@ -45,6 +45,7 @@
 </div>
 <br>
 
-DiCache consists of Online Probe Profiling Strategy and Dynamic Cache Trajectory Alignment. The former dynamically determines the caching timing with an online shallow-layer probe at runtime, while the latter combines multi-step caches based on the probe feature trajectory to adaptively approximate the feature at the current timestep
+DiCache consists of _Online Probe Profiling Strategy_ and _Dynamic Cache Trajectory Alignment_. The former dynamically determines the caching timing with an online shallow-layer probe at runtime, while the latter combines multi-step caches based on the probe feature trajectory to adaptively approximate the feature at the current timestep. By integrating the above two techniques, DiCache intrinsically answers when and how to
+cache in a unified framework.
 
 
