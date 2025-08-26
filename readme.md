@@ -48,4 +48,25 @@
 DiCache consists of _Online Probe Profiling Strategy_ and _Dynamic Cache Trajectory Alignment_. The former dynamically determines the caching timing with an online shallow-layer probe at runtime, while the latter combines multi-step caches based on the probe feature trajectory to adaptively approximate the feature at the current timestep. By integrating the above two techniques, DiCache intrinsically answers when and how to
 cache in a unified framework.
 
+## 🖋 News
+- Paper is available on arXiv! (2025.8.24)
+
+## 🏗️ Todo
+- [ ] 🚀 Release the DiCache code and project page
+- [x] 🚀 Release paper
+
+## 📣 Disclaimer
+
+This is official code of DiCache.
+All the copyrights of the demo images and audio are from community users. 
+Feel free to contact us if you would like remove them.
+
+## 💞 Acknowledgements
+The code is built upon the below repositories, we thank all the contributors for open-sourcing.
+* [Flux](https://github.com/black-forest-labs/flux)
+* [HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo)
+* [WAN 2.1]([https://github.com/yhyun225/DiffuseHigh](https://github.com/Wan-Video/Wan2.1))
+* [TeaCache](https://github.com/ali-vilab/TeaCache)
+
+
 
