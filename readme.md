@@ -38,3 +38,13 @@
     <img style="width:100%" src="__assets__/dicache_teaser.png">
 </div>
 <br>
+
+## 💻 Overview
+<div style="width: 100%; text-align: center; margin:auto;">
+    <img style="width:100%" src="__assets__/dicache_pipeline.png">
+</div>
+<br>
+
+DiCache consists of Online Probe Profiling Strategy and Dynamic Cache Trajectory Alignment. The former dynamically determines the caching timing with an online shallow-layer probe at runtime, while the latter combines multi-step caches based on the probe feature trajectory to adaptively approximate the feature at the current timestep
+
+
