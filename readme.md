@@ -65,7 +65,7 @@ Feel free to contact us if you would like remove them.
 The code is built upon the below repositories, we thank all the contributors for open-sourcing.
 * [Flux](https://github.com/black-forest-labs/flux)
 * [HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo)
-* [WAN 2.1]([https://github.com/yhyun225/DiffuseHigh](https://github.com/Wan-Video/Wan2.1))
+* [WAN 2.1](https://github.com/Wan-Video/Wan2.1)
 * [TeaCache](https://github.com/ali-vilab/TeaCache)
 
 
