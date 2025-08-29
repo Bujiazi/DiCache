@@ -49,10 +49,13 @@ DiCache consists of _Online Probe Profiling Strategy_ and _Dynamic Cache Traject
 cache in a unified framework.
 
 ## 🖋 News
+- Code for FLUX (V1.0) is released! (2025.8.29)
 - Paper is available on arXiv! (2025.8.24)
 
 ## 🏗️ Todo
-- [ ] 🚀 Release the DiCache code and project page
+- [ ] 🚀 Release the project page
+- [ ] 🚀 Release DiCache for HunyuanVideo
+- [x] 🚀 Release DiCache for FLUX
 - [x] 🚀 Release paper
 
 ## 📎 Citation 
