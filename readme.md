@@ -55,6 +55,18 @@ cache in a unified framework.
 - [ ] 🚀 Release the DiCache code and project page
 - [x] 🚀 Release paper
 
+## 📎 Citation 
+
+If you find our work helpful, please consider giving a star ⭐ and citation 📝 
+```bibtex
+@article{bu2025dicache,
+  title={DiCache: Let Diffusion Model Determine Its Own Cache},
+  author={Bu, Jiazi and Ling, Pengyang and Zhou, Yujie and Wang, Yibin and Zang, Yuhang and Wu, Tong and Lin, Dahua and Wang, Jiaqi},
+  journal={arXiv preprint arXiv:2508.17356},
+  year={2025}
+}
+```
+
 ## 📣 Disclaimer
 
 This is official code of DiCache.
