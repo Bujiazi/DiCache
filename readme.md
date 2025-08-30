@@ -78,12 +78,13 @@ sh run_hunyuanvideo_dicache.sh
 ```
 
 ## 🖋 News
+- Our Project page is released! (2025.8.30)
 - Code for HunyuanVideo (V1.0) is released! (2025.8.30)
 - Code for FLUX (V1.0) is released! (2025.8.28)
 - Paper is available on arXiv! (2025.8.24)
 
 ## 🏗️ Todo
-- [ ] 🚀 Release the project page
+- [x] 🚀 Release the project page
 - [x] 🚀 Release DiCache for HunyuanVideo
 - [x] 🚀 Release DiCache for FLUX
 - [x] 🚀 Release paper
