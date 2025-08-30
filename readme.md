@@ -48,6 +48,27 @@
 DiCache consists of _Online Probe Profiling Strategy_ and _Dynamic Cache Trajectory Alignment_. The former dynamically determines the caching timing with an online shallow-layer probe at runtime, while the latter combines multi-step caches based on the probe feature trajectory to adaptively approximate the feature at the current timestep. By integrating the above two techniques, DiCache intrinsically answers when and how to
 cache in a unified framework.
 
+## 🔧 Installations
+### Setup repository and conda environment
+
+```bash
+git clone https://github.com/Bujiazi/DiCache.git
+cd DiCache
+
+conda create -n dicache python=3.11
+conda activate dicache
+
+pip install -r requirements.txt
+```
+
+## 🎈 Quick Start
+### DiCache + FLUX
+```bash
+cd FLUX
+python run_flux_dicache.py
+```
+Model downloading is automatic.
+
 ## 🖋 News
 - Code for HunyuanVideo (V1.0) is released! (2025.8.30)
 - Code for FLUX (V1.0) is released! (2025.8.28)
