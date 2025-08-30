@@ -63,11 +63,18 @@ pip install -r requirements.txt
 
 ## 🎈 Quick Start
 ### DiCache + FLUX
+Model downloading is automatic for FLUX.
 ```bash
 cd FLUX
 python run_flux_dicache.py
 ```
-Model downloading is automatic.
+
+### DiCache + HunyuanVideo
+Follow [here](https://github.com/Tencent-Hunyuan/HunyuanVideo/blob/main/ckpts/README.md) to manually download model checkpoints and store them in `HunyuanVideo/ckpts`.
+```bash
+cd HunyuanVideo
+sh run_hunyuanvideo_dicache.sh
+```
 
 ## 🖋 News
 - Code for HunyuanVideo (V1.0) is released! (2025.8.30)
