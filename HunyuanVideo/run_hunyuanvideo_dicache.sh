@@ -1,4 +1,4 @@
-python3 sample_dicache.py \
+python3 run_hunyuanvideo_dicache.py \
 --video-size 544 960 \
 --video-length 129 \
 --infer-steps 50 \
