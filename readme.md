@@ -8,7 +8,6 @@
     <a href="https://github.com/YujieOuO" target="_blank">Yujie Zhou*</a><sup></sup> | 
     <a href="https://codegoat24.github.io/" target="_blank">Yibin Wang</a><sup></sup> <br> 
     <a href="https://yuhangzang.github.io/" target="_blank">Yuhang Zang</a><sup></sup> |
-    <a href="https://wutong16.github.io/" target="_blank">Tong Wu</a><sup></sup> |
     <a href="http://dahua.site/" target="_blank">Dahua Lin</a><sup></sup> |
     <a href="https://myownskyw7.github.io/" target="_blank">Jiaqi Wang<sup>†</sup></a><sup></sup>
 </div>
