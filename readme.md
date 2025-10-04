@@ -43,6 +43,14 @@
 </div>
 <br>
 
+## 🎬 Demo Video
+
+<div align="center">
+
+[![]](https://github.com/user-attachments/assets/3dcc363d-e814-4aa0-8840-2c1bbf1a9d17)
+
+</div>
+
 ## 💻 Method
 <div style="width: 100%; text-align: center; margin:auto;">
     <img style="width:100%" src="__assets__/dicache_pipeline.png">
