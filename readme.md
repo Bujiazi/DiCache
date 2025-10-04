@@ -45,8 +45,7 @@
 </div>
 <br>
 
-DiCache consists of _Online Probe Profiling Strategy_ and _Dynamic Cache Trajectory Alignment_. The former dynamically determines the caching timing with an online shallow-layer probe at runtime, while the latter combines multi-step caches based on the probe feature trajectory to adaptively approximate the feature at the current timestep. By integrating the above two techniques, DiCache intrinsically answers when and how to
-cache in a unified framework.
+DiCache consists of _Online Probe Profiling Strategy_ and _Dynamic Cache Trajectory Alignment_. The former dynamically determines the caching timing with an online shallow-layer probe at runtime, while the latter combines multi-step caches based on the probe feature trajectory to adaptively approximate the feature at the current timestep. By integrating the above two techniques, DiCache answers "when" and "how" to cache for diffusion models within a unified framework.
 
 ## 🔧 Installations
 ### Setup repository and conda environment
