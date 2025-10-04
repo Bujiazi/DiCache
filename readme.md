@@ -75,6 +75,12 @@ cd HunyuanVideo
 sh run_hunyuanvideo_dicache.sh
 ```
 
+### DiCache + HunyuanVideo + Sparse VideoGen
+Coming Soon
+
+### DiCache + WAN 2.1
+Coming Soon
+
 ## 🖋 News
 - Our Project page is released! (2025.8.30)
 - Code for HunyuanVideo (V1.0) is released! (2025.8.30)
@@ -111,7 +117,7 @@ The code is built upon the below repositories, we thank all the contributors for
 * [Flux](https://github.com/black-forest-labs/flux)
 * [HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo)
 * [WAN 2.1](https://github.com/Wan-Video/Wan2.1)
+* [Sparse VideoGen](https://github.com/svg-project/Sparse-VideoGen)
 * [TeaCache](https://github.com/ali-vilab/TeaCache)
-
 
 
