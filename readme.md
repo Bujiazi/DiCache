@@ -83,6 +83,7 @@ sh run_hunyuanvideo_dicache.sh
 - Paper is available on arXiv! (2025.8.24)
 
 ## 🏗️ Todo
+- [ ] 🚀 The code for WAN 2.1 is on the way!
 - [x] 🚀 Release the project page
 - [x] 🚀 Release DiCache for HunyuanVideo
 - [x] 🚀 Release DiCache for FLUX
