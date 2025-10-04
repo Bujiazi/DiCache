@@ -37,13 +37,13 @@
 </details>
 </div>
 
-## 🎨 Gallery
+## 🎨 Overview
 <div style="width: 100%; text-align: center; margin:auto;">
     <img style="width:100%" src="__assets__/dicache_teaser.png">
 </div>
 <br>
 
-## 💻 Overview
+## 💻 Method
 <div style="width: 100%; text-align: center; margin:auto;">
     <img style="width:100%" src="__assets__/dicache_pipeline.png">
 </div>
