@@ -1,5 +1,9 @@
 <div align="center">
 
+<p align="center">
+  <img src="__assets__/dicache_logo.png" height=100>
+</p>
+
 <h1>DiCache: Let Diffusion Model Determine Its Own Cache</h1>
 
 <div>
