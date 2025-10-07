@@ -91,16 +91,21 @@ sh run_hunyuanvideo_dicache.sh
 Coming Soon
 
 ### DiCache + WAN 2.1
-Coming Soon
+Follow [here](https://github.com/Wan-Video/Wan2.1) to manually download model checkpoints and store them in `WAN2.1/ckpts`.
+```bash
+cd WAN2.1
+sh run_wan_dicache.sh
+```
 
 ## 🖋 News
+- Code for WAN2.1 (V1.0) is released! (2025.10.7)
 - Our Project page is released! (2025.8.30)
 - Code for HunyuanVideo (V1.0) is released! (2025.8.30)
 - Code for FLUX (V1.0) is released! (2025.8.28)
 - Paper is available on arXiv! (2025.8.24)
 
 ## 🏗️ Todo
-- [ ] 🚀 The code for WAN 2.1 is on the way!
+- [x] 🚀 Release DiCache for WAN2.1
 - [x] 🚀 Release the project page
 - [x] 🚀 Release DiCache for HunyuanVideo
 - [x] 🚀 Release DiCache for FLUX
