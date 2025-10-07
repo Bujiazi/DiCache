@@ -1,0 +1,1 @@
+python run_wan_dicache.py --prompt "pick up trucks driving on a country road." --base_seed 3
