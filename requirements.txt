@@ -6,7 +6,6 @@ cycler==0.12.1
 diffusers==0.34.0
 einops==0.8.1
 filelock==3.18.0
-flash-attn==2.6.0.post1
 fonttools==4.59.1
 fsspec==2025.5.1
 hf-xet==1.1.5
@@ -56,3 +55,7 @@ triton==2.3.0
 typing-extensions==4.14.0
 urllib3==2.5.0
 zipp==3.23.0
+flash-attn==2.6.0.post1
+easydict
+ftfy
+dashscope
