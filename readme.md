@@ -105,6 +105,7 @@ sh run_wan_dicache.sh
 - Paper is available on arXiv! (2025.8.24)
 
 ## 🏗️ Todo
+- [ ] 🚀 Release DiCache for HunyuanVideo + Sparse VideoGen
 - [x] 🚀 Release DiCache for WAN2.1
 - [x] 🚀 Release the project page
 - [x] 🚀 Release DiCache for HunyuanVideo
