@@ -22,6 +22,11 @@
 (*<b>Equal Contribution</b>)(<sup>†</sup><b>Corresponding Author</b>)
 <br><br>
 
+<div>
+    <sup></sup><strong>ICLR 2026</strong> 
+</div>
+</br>
+
 [![arXiv](https://img.shields.io/badge/arXiv-2508.17356-b31b1b.svg)](https://arxiv.org/abs/2508.17356) 
 [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://bujiazi.github.io/dicache.github.io/)
 
